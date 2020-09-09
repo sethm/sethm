@@ -9,3 +9,4 @@ computer systems.
 - [Website](https://loomcom.com)
 - [Blog](https://loomcom.com/blog)
 - [Twitter](https://twitter.com/twylo)
+- [My Emacs config](https://github.com/sethm/emacs-files/blob/master/configuration.org)
