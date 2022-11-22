@@ -8,4 +8,6 @@ computer systems.
 
 - [Website](https://loomcom.com)
 - [Blog](https://loomcom.com/blog)
-- [Twitter](https://twitter.com/twylo)
+- [Mastodon](https://mastodon.sdf.org/@twylo)
+- [LinkedIn](https://linkedin.com/in/sethmorabito)
+- IRC oftc and libera networks as **twylo**
