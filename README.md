@@ -5,7 +5,7 @@ profit. I'm primarily interested in simulation and emulation of
 computer systems.
 
 GitHub is now a backup for my self-hosted Git repositories at
-[https://git.loomcom.com/](https://git.loomcom.com/seth?tab=activity)
+[https://git.loomcom.com/seth](https://git.loomcom.com/seth?tab=activity)
 
 # Stalk Me
 
